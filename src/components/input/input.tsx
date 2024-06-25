@@ -1,5 +1,5 @@
 import InputProps from "@/models/InputProps";
-import "./Input.css";
+import "./input.css";
 
 export default function Input({ label, type = "text", placeholder, required = true } :  InputProps) {
     return (
