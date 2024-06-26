@@ -1,6 +1,6 @@
 import NavBar from "@/components/navbar/navbar";
 import "./globals.css";
-import { onest } from "./ui/fonts";
+import { onest } from "../components/ui/fonts";
 import Footer from "@/components/footer/footer";
 
 export default function RootLayout({ children }: Readonly<{
