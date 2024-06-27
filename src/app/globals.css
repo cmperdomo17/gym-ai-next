@@ -3,10 +3,5 @@
 @import 'tailwindcss/utilities';
 
 :root {
-  color-scheme: dark light;
   font-family: 'Onest', sans-serif;
 }
-
-/* body {
-  animation: fadeIn 1.2s;
-} */

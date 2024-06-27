@@ -7,7 +7,6 @@ button {
 }
 
 button:hover {
-    /* background: rgb(61, 106, 255); */
     box-shadow: 0 0 20px 1px #fcf9f2a2;
     -webkit-transition: all 0.4s ease-out;
     -moz-transition: all 0.4s ease-out;

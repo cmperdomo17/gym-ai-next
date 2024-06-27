@@ -5,7 +5,7 @@ import Link from "next/link";
 export default function Form( { isLogin }: Readonly<{ isLogin: boolean }>) {
     return (
         <form className="flex flex-col gap-12 items-center">
-            <h1 className="text-4xl text-center font-bold">Gym AI</h1>
+            <h1 className="text-4xl text-center font-bold text-zinc-950 dark:text-white">Gym AI</h1>
             <div className="flex flex-col gap-7">
                 <Input label="Username" />
                 { isLogin ? 
