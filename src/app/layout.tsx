@@ -16,7 +16,7 @@ export default function RootLayout({ children }: Readonly<{
           enableSystem
           disableTransitionOnChange
         >
-          <div className="flex flex-col items-center justify-center h-[100dvh] text-gray-200">
+          <div className="flex flex-col items-center justify-center h-[100dvh]">
             <NavBar />
             {children}
             <Footer />

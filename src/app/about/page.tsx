@@ -9,7 +9,7 @@ import {
 
 export default function About() {
     return (
-        <div className="flex flex-col gap-10 w-72 md:w-[30rem] text-zinc-950 dark:text-white">
+        <div className="flex flex-col gap-10 w-72 md:w-[30rem]">
             <h1 className="text-3xl font-bold">
                 About GymAi
             </h1>
