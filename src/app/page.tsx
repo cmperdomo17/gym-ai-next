@@ -3,7 +3,7 @@ import Image from "next/image";
 export default function Home() {
   return (
     <>
-      <div className="flex flex-col gap-10 justify-center items-center">
+      <div className="flex flex-col gap-10 justify-center items-center text-center mx-10 md:mx-0">
         <h1 className="text-3xl font-bold">
           Welcome to GymAi
         </h1>
